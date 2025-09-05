@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://ironlotus.atabook.org/">AtaBook</a> 
 </p>  <p align="center">
-  <a href="https://en.pronouns.page/limbuscompanybus">Pronouns</a>
+  <a href="https://en.pronouns.page/@limbuscompanybus">Pronouns</a>
 </p>
 
 <!-- image filler -->
