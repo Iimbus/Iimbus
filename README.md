@@ -9,7 +9,7 @@
 <!-- links -->
 
 <p align="center">
-  <a href="https://ironlotus.atabook.org/">AtaBook</a> 
+  <a href="https://blacksilence.atabook.org/">AtaBook</a> 
 </p>  <p align="center">
   <a href="https://en.pronouns.page/@limbuscompanybus">Pronouns</a>
 </p>
